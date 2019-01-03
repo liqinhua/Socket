@@ -1,0 +1,23 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "如果你的需求只考虑WebSocket，那么它是你比较满意的选择。简单，方便",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src --out-dir dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liqinhua/Socket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liqinhua/Socket/issues"
+  },
+  "homepage": "https://github.com/liqinhua/Socket#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
